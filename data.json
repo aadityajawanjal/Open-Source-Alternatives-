@@ -18,6 +18,16 @@
         "link":"https://avidemux.sourceforge.net/"
         
     }
+    
+      {
+        "id": 4,
+        "applicationName": "microsoft Office",
+        "use": "editing docuements",
+        "alternative":"Open office",
+        "description":"Apache OpenOffice includes Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (graphics), Math (mathematic equations) and Base (database). It can open, edit and export to Microsoft file formats, and it features a very intuitive interface.",
+        "link":"https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Getting_Started/Inserting_hyperlinks"
+        
+    }
    
     
     
