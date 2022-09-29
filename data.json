@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "applicationName": "Adobe Premiere Pro",
+        "use": "Photoshop editing",
+        "alternative":"Cinelerra",
+        "description":"Cinelerra was designed to be “useful and fast” with a minimalist but powerful interface. Operating System: Linux",
+        "link":"http://cinelerra.org/"
+
+    },
+
+    {
+        "id": 2,
+        "applicationName": "Adobe Premiere Pro",
+        "use": "Photoshop editing",
+        "alternative":"Avidemux",
+        "description":"Ideal for simple video editing and filtering tasks, Avidemux supports a wide variety of file formats. It also has job queue and scripting capabilities for batch jobs. Operating System: Windows, Linux, macOS",
+        "link":"https://avidemux.sourceforge.net/"
+        
+    }
+    
+   
+
+
+]
