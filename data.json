@@ -17,19 +17,15 @@
         "description":"Ideal for simple video editing and filtering tasks, Avidemux supports a wide variety of file formats. It also has job queue and scripting capabilities for batch jobs. Operating System: Windows, Linux, macOS",
         "link":"https://avidemux.sourceforge.net/"
         
-    }
-    
-      {
-        "id": 4,
-        "applicationName": "microsoft Office",
-        "use": "editing docuements",
-        "alternative":"Open office",
+    },
+    {
+        "id": 3,
+        "applicationName": "Microsoft office",
+        "use": "for editing document",
+        "alternative":"OpenOffice",
         "description":"Apache OpenOffice includes Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (graphics), Math (mathematic equations) and Base (database). It can open, edit and export to Microsoft file formats, and it features a very intuitive interface.",
         "link":"https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Getting_Started/Inserting_hyperlinks"
-        
     }
-   
-    
-    
-    
+        
+
 ]
