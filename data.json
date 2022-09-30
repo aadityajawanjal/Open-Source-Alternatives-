@@ -215,6 +215,15 @@
         "description":"Cloud-light, easy to install, and effortless to use, Quick Heal antivirus for PC, Laptop, Mac, and Windows offers better performance, ultimate threat",
         "link":"https://www.animaker.com/"
 
+    },
+    {
+        "id": 25,
+        "applicationName": "Android Studio",
+        "use": "Development",
+        "alternative":"IntelliJ IDEA",
+        "description":"light in weight, low consumption of memory,  more generalist IDE",
+        "link":"https://www.jetbrains.com/idea/"
+
     }
 
 ]
