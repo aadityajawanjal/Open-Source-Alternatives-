@@ -50,7 +50,7 @@
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
         "link":"\https://www.figma.com/"
-    }    
+    },   
     {
         "id": 7,
         "applicationName": "odoo",
@@ -58,6 +58,15 @@
         "alternative":"GIMP",
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
+    },
+    {
+        "id": 8,
+        "applicationName": "microsoft Office",
+        "use": " office productivity software ",
+        "alternative":"LibreOffice",
+        "description":"consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases",
+        "link":"https://www.libreoffice.org/"
+
     }
         
 
