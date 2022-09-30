@@ -85,11 +85,6 @@
     }
  {
         "id": 11,
-        "applicationName": "Chrome",
-        "use": "browsing",
-        "alternative":"Brave",
-        "description":"Ad free",
-        "link":"https://brave.com"
         "applicationName": "Windows",
         "use": "Photoshop editing",
         "alternative":"Cinelerra",
@@ -104,6 +99,7 @@
         "alternative":"audacity",
         "description":"Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems,Audacity is free, open source software.",
         "link":"https://www.audacityteam.org/"
+
     },
 
     {
@@ -113,15 +109,6 @@
         "alternative":"Jhon the ripper",
         "description":"used in kali linux for hacking .cap file and many other",
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
-    },
-     {
-        "id": 12,
-        "applicationName": "Blender",
-        "use": "3D Effects",
-        "alternative":"Unity",
-        "description":"Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation."
-        "link":"https://www.blender.org/"
-        
     },
     {
         "id": 13,
@@ -148,7 +135,7 @@
         "applicationName": "LinkedIn",
         "use": "To find employees and connect with new people",
         "alternative":"AngelList",
-        "description":"It's a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
+        "description":"It is a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
         "link":"https://www.bing.com/search?q=angel+list&cvid=817fd76f1a514e5197b8b77f5405d377&aqs=edge..69i57j0l8.4116j0j1&pglt=41&FORM=ANNTA1&PC=HCTS"
 
     },
@@ -164,6 +151,13 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
-    }
-
+    },
+    {
+        "id": 19,
+        "applicationName": "Lorien",
+        "use": "Whiteboard",
+        "alternative":"Microsoft Whiteboard",
+        "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+        "link":"https://github.com/mbrlabs/Lorien"
+    },
 ]
