@@ -34,6 +34,15 @@
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
     }
+      
+    {
+        "id": 5,
+        "applicationName": "odoo",
+        "use": "for billing accounting",
+        "alternative":"GIMP",
+        "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
+        "link":"https://www.gimp.org"
+    }
         
 
 ]
