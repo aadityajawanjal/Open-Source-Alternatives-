@@ -33,6 +33,14 @@
         "alternative":"GIMP",
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
+    },
+    {
+        "id": 5,
+        "applicationName": "Adobe XD",
+        "use": "To make UI/UX Designs",
+        "alternative":"Figma",
+        "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
+        "link":"\https://www.figma.com/"
     }
         
 
