@@ -50,7 +50,7 @@
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
         "link":"\https://www.figma.com/"
-    } ,   
+    },   
     {
         "id": 7,
         "applicationName": "odoo",
@@ -58,8 +58,7 @@
         "alternative":"GIMP",
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
-
-    },   
+    },
     {
         "id": 8,
         "applicationName": "microsoft Office",
@@ -83,22 +82,23 @@
         "alternative":"Amarok",
         "description":"It combines music discovery features with an attractive, easy-to-use audio player and  include integration with multiple Web audio services, dynamic playlists, bookmarks, scripting, context view and more.",
         "link":"https://amarok.kde.org/en/node/890.html"
-    },
-    {
-        "id": 11,
-        "applicationName": "Chrome",
-        "use": "browsing",
-        "alternative":"Brave",
-        "description":"Ad free",
-        "link":"https://brave.com"
-    },
-    {
-        "id": 12,
-        "applicationName": "aircrak-ng",
-        "use": "Cracking password",
-        "alternative":"Jhon the ripper",
-        "description":"used in kali linux for hacking .cap file and many other",
-        "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     }
+ {
+        "id": 11,
+        "applicationName": "Windows",
+        "use": "Photoshop editing",
+        "alternative":"Cinelerra",
+        "description":"Cinelerra was designed to be “useful and fast” with a minimalist but powerful interface. Operating System: Linux",
+        "link":"http://cinelerra.org/"
 
+    },
+ {
+        "id": 1,
+        "applicationName": "Filmora",
+        "use": "audio editor,recoder",
+        "alternative":"audacity",
+        "description":"Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems,Audacity is free, open source software.",
+        "link":"https://www.audacityteam.org/"
+
+    },
 ]
