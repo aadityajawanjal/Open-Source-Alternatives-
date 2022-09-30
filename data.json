@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "applicationName": "Adobe Premiere Pro",
+        "applicationName": "Windows",
         "use": "Photoshop editing",
         "alternative":"Cinelerra",
         "description":"Cinelerra was designed to be “useful and fast” with a minimalist but powerful interface. Operating System: Linux",
@@ -25,6 +25,14 @@
         "alternative":"OpenOffice",
         "description":"Apache OpenOffice includes Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (graphics), Math (mathematic equations) and Base (database). It can open, edit and export to Microsoft file formats, and it features a very intuitive interface.",
         "link":"https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Getting_Started/Inserting_hyperlinks"
+    },
+    {
+        "id": 4,
+        "applicationName": "Adobe Photoshop",
+        "use": "To Edit Pictures",
+        "alternative":"GIMP",
+        "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
+        "link":"https://www.gimp.org"
     }
         
 
