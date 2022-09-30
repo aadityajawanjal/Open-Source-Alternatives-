@@ -1,10 +1,11 @@
-Here is the Format To contribute:
+Here is the Format To contribute :
 
-   {
-        "id": " " ,
-        "applicationName": " " ,
-        "use": " " ,
-        "alternative": " " ,
-        "description": " " ,
-        "link": " "
-   }
+    {
+        "id" : " " ,
+        "applicationname" : " " ,
+        "use" : " " ,
+        "alternative" : " " ,
+        "link" : " " 
+    }
+
+   
