@@ -99,6 +99,14 @@
         "alternative":"Jhon the ripper",
         "description":"used in kali linux for hacking .cap file and many other",
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
+    },
+    {
+        "id": 13,
+        "applicationName": "Joplin",
+        "use": "Note Taking",
+        "alternative":"Onenote",
+        "description":"used to take markdown notes",
+        "link":"https://github.com/laurent22/joplin"
     }
 
 ]
