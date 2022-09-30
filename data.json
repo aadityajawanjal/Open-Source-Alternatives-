@@ -85,11 +85,6 @@
     }
  {
         "id": 11,
-        "applicationName": "Chrome",
-        "use": "browsing",
-        "alternative":"Brave",
-        "description":"Ad free",
-        "link":"https://brave.com"
         "applicationName": "Windows",
         "use": "Photoshop editing",
         "alternative":"Cinelerra",
@@ -98,16 +93,17 @@
 
     },
  {
-        "id": 1,
+        "id": 12,
         "applicationName": "Filmora",
         "use": "audio editor,recoder",
         "alternative":"audacity",
         "description":"Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems,Audacity is free, open source software.",
         "link":"https://www.audacityteam.org/"
+
     },
 
     {
-        "id": 12,
+        "id": 13,
         "applicationName": "aircrak-ng",
         "use": "Cracking password",
         "alternative":"Jhon the ripper",
@@ -115,7 +111,7 @@
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     },
     {
-        "id": 13,
+        "id": 14,
         "applicationName": "Joplin",
         "use": "Note Taking",
         "alternative":"Onenote",
@@ -124,7 +120,7 @@
 },
 
     {
-        "id": 13,
+        "id": 15,
         "applicationName": "Flip kart",
         "use": "order any product from home",
         "alternative":"amazon",
@@ -135,16 +131,16 @@
 
     
     {
-        "id": 17,
+        "id": 16,
         "applicationName": "LinkedIn",
         "use": "To find employees and connect with new people",
         "alternative":"AngelList",
-        "description":"It's a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
+        "description":"It is a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
         "link":"https://www.bing.com/search?q=angel+list&cvid=817fd76f1a514e5197b8b77f5405d377&aqs=edge..69i57j0l8.4116j0j1&pglt=41&FORM=ANNTA1&PC=HCTS"
 
     },
     {
-        "id": 18,
+        "id": 17,
         "applicationName": "Visual studio code",
         "use": "Code writing and editing",
         "alternative":"Sublime",
@@ -156,7 +152,16 @@
         "link":"https://brave.com"
 
     },
-{
+    {
+        "id": 18,
+        "applicationName": "Lorien",
+        "use": "Whiteboard",
+        "alternative":"Microsoft Whiteboard",
+        "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+        "link":"https://github.com/mbrlabs/Lorien"
+    },
+
+    {
         "id": 19,
         "applicationName": "Brave",
         "use": "Browsing",
@@ -168,8 +173,6 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
-    },
-
-
+    }
 
 ]
