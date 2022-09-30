@@ -164,6 +164,11 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
-    }
-
+    },
+  "id": 17,
+        "applicationName": "Canva",
+        "use": "to create professional looking designs",
+        "alternative":"Design Wizard",
+        "description":"Design Wizard is an easy-to-use Canva alternative for creating static graphics or short videos. The tool offers templates for most social media assets plus some documents and presentation-style projects",
+        "link":"https://designwizard.com/"
 ]
