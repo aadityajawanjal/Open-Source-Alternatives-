@@ -86,6 +86,10 @@
     },
     {
         "id": 11,
+        "applicationName": "Visual studio code",
+        "use": "Code writing and editing",
+        "alternative":"Sublime",
+        "description":"It is open source platform to used for coding and development.",
         "applicationName": "Chrome",
         "use": "browsing",
         "alternative":"Brave",
@@ -108,6 +112,7 @@
         "alternative":"AngelList",
         "description":"It is a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
         "link":"https://www.bing.com/search?q=angel+list&cvid=817fd76f1a514e5197b8b77f5405d377&aqs=edge..69i57j0l8.4116j0j1&pglt=41&FORM=ANNTA1&PC=HCTS"
-    }
 
+    }
+    
 ]
