@@ -85,6 +85,11 @@
     }
  {
         "id": 11,
+        "applicationName": "Chrome",
+        "use": "browsing",
+        "alternative":"Brave",
+        "description":"Ad free",
+        "link":"https://brave.com"
         "applicationName": "Windows",
         "use": "Photoshop editing",
         "alternative":"Cinelerra",
@@ -99,7 +104,6 @@
         "alternative":"audacity",
         "description":"Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems,Audacity is free, open source software.",
         "link":"https://www.audacityteam.org/"
-
     },
 
     {
@@ -135,7 +139,7 @@
         "applicationName": "LinkedIn",
         "use": "To find employees and connect with new people",
         "alternative":"AngelList",
-        "description":"It is a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
+        "description":"It's a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
         "link":"https://www.bing.com/search?q=angel+list&cvid=817fd76f1a514e5197b8b77f5405d377&aqs=edge..69i57j0l8.4116j0j1&pglt=41&FORM=ANNTA1&PC=HCTS"
 
     },
@@ -164,7 +168,8 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
-    }
+    },
+
 
 
 ]
