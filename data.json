@@ -114,15 +114,6 @@
         "description":"used in kali linux for hacking .cap file and many other",
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     },
-     {
-        "id": 12,
-        "applicationName": "Blender",
-        "use": "3D Effects",
-        "alternative":"Unity",
-        "description":"Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation."
-        "link":"https://www.blender.org/"
-        
-    },
     {
         "id": 13,
         "applicationName": "Joplin",
@@ -164,6 +155,21 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
-    }
+    },
+{
+        "id": 19,
+        "applicationName": "Brave",
+        "use": "Browsing",
+        "alternative":"chrome",
+        "description":"It is open source platform to used for browsing, coding and development.",
+        "applicationName": "Chrome",
+        "use": "browsing",
+        "alternative":"Brave",
+        "description":"Ad free",
+        "link":"https://brave.com"
+
+    },
+
+
 
 ]
