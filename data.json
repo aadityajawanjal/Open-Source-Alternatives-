@@ -58,24 +58,47 @@
         "alternative":"GIMP",
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
-    }
-        ,   
+
+    },   
+    {
+        "id": 8,
+        "applicationName": "microsoft Office",
+        "use": " office productivity software ",
+        "alternative":"LibreOffice",
+        "description":"consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases",
+        "link":"https://www.libreoffice.org/"
+
     {
         "id": 9,
+        "applicationName": "VLC media player",
+        "use": "To play media files",
+        "alternative":"GOM Player",
+        "description":"VLC media player is a free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.",
+        "link":"https://www.videolan.org/vlc/"
+    },
+    {
+        "id": 10,
         "applicationName": "iTunes",
         "use": "Audio/Music editing",
         "alternative":"Amarok",
         "description":"It combines music discovery features with an attractive, easy-to-use audio player and  include integration with multiple Web audio services, dynamic playlists, bookmarks, scripting, context view and more.",
         "link":"https://amarok.kde.org/en/node/890.html"
     },
-    
     {
-        "id": 10,
+        "id": 11,
         "applicationName": "Chrome",
         "use": "browsing",
         "alternative":"Brave",
         "description":"Ad free",
         "link":"https://brave.com"
     },
+    {
+        "id": 12,
+        "applicationName": "aircrak-ng",
+        "use": "Cracking password",
+        "alternative":"Jhon the ripper",
+        "description":"used in kali linux for hacking .cap file and many other",
+        "link":"https://github.com/aircrack-ng/aircrack-ng.git"
+    }
 
 ]
