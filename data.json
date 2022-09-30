@@ -164,6 +164,15 @@
         "description":"Ad free",
         "link":"https://brave.com"
 
+    },
+    {
+        "id": 19,
+        "applicationName": "VLC Media Player",
+        "use": "VLC is a multimedia player that can play most media files on most platforms",
+        "alternative":"KM Player",
+        "description":"Its wide range of supported formats include multimedia files, DVDs, audio CDs, VCDs, and various streaming protocols.It is free to use",
+        "link":"https://www.videolan.org/vlc/download-windows.html"
+
     }
 
 ]
