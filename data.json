@@ -82,6 +82,14 @@
         "alternative":"Amarok",
         "description":"It combines music discovery features with an attractive, easy-to-use audio player and  include integration with multiple Web audio services, dynamic playlists, bookmarks, scripting, context view and more.",
         "link":"https://amarok.kde.org/en/node/890.html"
+    },
+    {
+        "id": 11,
+        "applicationName": "Visual studio code",
+        "use": "Code writing and editing",
+        "alternative":"Sublime",
+        "description":"It is open source platform to used for coding and development.",
+        "link":"https://code.visualstudio.com/"
     }
-
+    
 ]
