@@ -67,7 +67,21 @@
         "description":"consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases",
         "link":"https://www.libreoffice.org/"
 
+    {
+        "id": 9,
+        "applicationName": "VLC media player",
+        "use": "To play media files",
+        "alternative":"GOM Player",
+        "description":"VLC media player is a free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.",
+        "link":"https://www.videolan.org/vlc/"
+    },
+    {
+        "id": 10,
+        "applicationName": "iTunes",
+        "use": "Audio/Music editing",
+        "alternative":"Amarok",
+        "description":"It combines music discovery features with an attractive, easy-to-use audio player and  include integration with multiple Web audio services, dynamic playlists, bookmarks, scripting, context view and more.",
+        "link":"https://amarok.kde.org/en/node/890.html"
     }
-        
 
 ]
