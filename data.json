@@ -143,6 +143,17 @@
         "description":"Ad free",
         "link":"https://brave.com"
     }
+,
+
+    {
+        "id": 19,
+        "applicationName": "Minecrat",
+        "use": "Video/PC game",
+        "alternative":"Minetest",
+        "description":"Explore new gaming adventures, accessories, & merchandise on the Minecraft",
+        "link":"https://www.minetest.net"
+
+    },
 
 
 ]
