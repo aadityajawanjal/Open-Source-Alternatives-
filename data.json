@@ -50,7 +50,6 @@
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
         "link":"\https://www.figma.com/"
-
     },   
     {
         "id": 7,
@@ -62,6 +61,14 @@
     },
     {
         "id": 8,
+        "applicationName": "microsoft Office",
+        "use": " office productivity software ",
+        "alternative":"LibreOffice",
+        "description":"consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases",
+        "link":"https://www.libreoffice.org/"
+
+    {
+        "id": 9,
         "applicationName": "VLC media player",
         "use": "To play media files",
         "alternative":"GOM Player",
@@ -69,7 +76,7 @@
         "link":"https://www.videolan.org/vlc/"
     },
     {
-        "id": 9,
+        "id": 10,
         "applicationName": "iTunes",
         "use": "Audio/Music editing",
         "alternative":"Amarok",
