@@ -50,7 +50,7 @@
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
         "link":"\https://www.figma.com/"
-    },   
+    } ,   
     {
         "id": 7,
         "applicationName": "odoo",
@@ -58,7 +58,8 @@
         "alternative":"GIMP",
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
-    },
+
+    },   
     {
         "id": 8,
         "applicationName": "microsoft Office",
@@ -89,7 +90,29 @@
         "use": "Code writing and editing",
         "alternative":"Sublime",
         "description":"It is open source platform to used for coding and development.",
-        "link":"https://code.visualstudio.com/"
+        "applicationName": "Chrome",
+        "use": "browsing",
+        "alternative":"Brave",
+        "description":"Ad free",
+        "link":"https://brave.com"
+    },
+    {
+        "id": 12,
+        "applicationName": "aircrak-ng",
+        "use": "Cracking password",
+        "alternative":"Jhon the ripper",
+        "description":"used in kali linux for hacking .cap file and many other",
+        "link":"https://github.com/aircrack-ng/aircrack-ng.git"
+    }
+    ,
+    {
+        "id": 17,
+        "applicationName": "LinkedIn",
+        "use": "To find employees and connect with new people",
+        "alternative":"AngelList",
+        "description":"It is a simple to use and an effective platform that helps connect job seekers with countless numbers of organizations looking to hire professionals with targeted skills for free.",
+        "link":"https://www.bing.com/search?q=angel+list&cvid=817fd76f1a514e5197b8b77f5405d377&aqs=edge..69i57j0l8.4116j0j1&pglt=41&FORM=ANNTA1&PC=HCTS"
+
     }
     
 ]
