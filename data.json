@@ -93,7 +93,7 @@
 
     },
  {
-        "id": 1,
+        "id": 12,
         "applicationName": "Filmora",
         "use": "audio editor,recoder",
         "alternative":"audacity",
@@ -103,7 +103,7 @@
     },
 
     {
-        "id": 12,
+        "id": 13,
         "applicationName": "aircrak-ng",
         "use": "Cracking password",
         "alternative":"Jhon the ripper",
@@ -111,7 +111,7 @@
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     },
     {
-        "id": 13,
+        "id": 14,
         "applicationName": "Joplin",
         "use": "Note Taking",
         "alternative":"Onenote",
@@ -120,7 +120,7 @@
 },
 
     {
-        "id": 13,
+        "id": 15,
         "applicationName": "Flip kart",
         "use": "order any product from home",
         "alternative":"amazon",
@@ -131,7 +131,7 @@
 
     
     {
-        "id": 17,
+        "id": 16,
         "applicationName": "LinkedIn",
         "use": "To find employees and connect with new people",
         "alternative":"AngelList",
@@ -140,7 +140,7 @@
 
     },
     {
-        "id": 18,
+        "id": 17,
         "applicationName": "Visual studio code",
         "use": "Code writing and editing",
         "alternative":"Sublime",
@@ -153,11 +153,26 @@
 
     },
     {
-        "id": 19,
+        "id": 18,
         "applicationName": "Lorien",
         "use": "Whiteboard",
         "alternative":"Microsoft Whiteboard",
         "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
         "link":"https://github.com/mbrlabs/Lorien"
     },
+
+    {
+        "id": 19,
+        "applicationName": "Brave",
+        "use": "Browsing",
+        "alternative":"chrome",
+        "description":"It is open source platform to used for browsing, coding and development.",
+        "applicationName": "Chrome",
+        "use": "browsing",
+        "alternative":"Brave",
+        "description":"Ad free",
+        "link":"https://brave.com"
+
+    }
+
 ]
