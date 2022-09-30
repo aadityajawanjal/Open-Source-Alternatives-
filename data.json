@@ -82,6 +82,16 @@
         "alternative":"Amarok",
         "description":"It combines music discovery features with an attractive, easy-to-use audio player and  include integration with multiple Web audio services, dynamic playlists, bookmarks, scripting, context view and more.",
         "link":"https://amarok.kde.org/en/node/890.html"
+    },
+
+    {
+        "id": 11,
+        "applicationName": "aircrak-ng",
+        "use": "Cracking password",
+        "alternative":"Jhon the ripper",
+        "description":"used in kali linux for hacking .cap file and many other",
+        "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     }
+        
 
 ]
