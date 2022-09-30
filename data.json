@@ -40,6 +40,24 @@
         "use": "visual database application",
         "alternative":"Kexi",
         "description":"Specifically designed as an alternative to Access and FileMaker, Kexi is a visual database application creator that allows non-programmers to make simple data-driven applications. It is part of the KDE project and the Calligra office productivity suite. Operating System: Windows, Linux, macOS"
+
+
+    },
+    {
+        "id": 6,
+        "applicationName": "Adobe XD",
+        "use": "To make UI/UX Designs",
+        "alternative":"Figma",
+        "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
+        "link":"\https://www.figma.com/"
+    }    
+    {
+        "id": 7,
+        "applicationName": "odoo",
+        "use": "for billing accounting",
+        "alternative":"GIMP",
+        "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
+        "link":"https://www.gimp.org"
     }
         
 
