@@ -59,6 +59,14 @@
         "description":"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
         "link":"https://www.gimp.org"
     }
+ {
+        "id": 8,
+        "applicationName": "aircrak-ng",
+        "use": "Cracking password",
+        "alternative":"Jhon the ripper",
+        "description":"used in kali linux for hacking .cap file and many other",
+        "link":"https://github.com/aircrack-ng/aircrack-ng.git"
+    }
         
 
 ]
