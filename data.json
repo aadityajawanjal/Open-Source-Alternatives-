@@ -152,6 +152,15 @@
     },
     {
         "id": 18,
+        "applicationName": "VLC Media Player",
+        "use": "VLC is a multimedia player that can play most media files on most platforms",
+        "alternative":"KM Player",
+        "description":"Its wide range of supported formats include multimedia files, DVDs, audio CDs, VCDs, and various streaming protocols.It is free to use",
+        "link":"https://www.videolan.org/vlc/download-windows.html"
+
+      },
+      {
+        "id": 19,
         "applicationName": "Canva",
         "use": "to create professional looking designs",
         "alternative":"Design Wizard",
@@ -160,7 +169,7 @@
     },
 
     {
-        "id": 19,
+        "id": 20,
         "applicationName": "Lorien",
         "use": "Whiteboard",
         "alternative":"Microsoft Whiteboard",
@@ -168,7 +177,7 @@
         "link":"https://github.com/mbrlabs/Lorien"
     },
     {
-        "id": 20,
+        "id": 21,
         "applicationName": "Brave",
         "use": "Browsing",
         "alternative":"chrome",
@@ -181,12 +190,13 @@
 
     },
     {
-        "id": 21,
+        "id": 22,
         "applicationName": "Minecrat",
         "use": "Video/PC game",
         "alternative":"Minetest",
         "description":"Explore new gaming adventures, accessories, & merchandise on the Minecraft",
         "link":"https://www.minetest.net"
+
     }
 
 ]
