@@ -206,6 +206,15 @@
         "description":"A powerful open-source cross-platform solid modelling system with more than 30 years of active development",
         "link":"http://brlcad.org/"
 
+    },
+    {
+        "id": 24,
+        "applicationName": "Quick Heal",
+        "use": "Antivirus",
+        "alternative":"Ainmaker",
+        "description":"Cloud-light, easy to install, and effortless to use, Quick Heal antivirus for PC, Laptop, Mac, and Windows offers better performance, ultimate threat",
+        "link":"https://www.animaker.com/"
+
     }
 
 ]
