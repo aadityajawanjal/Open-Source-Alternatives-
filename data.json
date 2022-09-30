@@ -100,5 +100,14 @@
         "description":"used in kali linux for hacking .cap file and many other",
         "link":"https://github.com/aircrack-ng/aircrack-ng.git"
     }
+    {
+        "id": 13,
+        "applicationName": "Flip kart",
+        "use": "order any product from home",
+        "alternative":"amazon",
+        "description":"amazon is best product selling app which can be use by people who want to order any product",
+        "link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjStsHgkr36AhVUKXIKHTSaBScYABAAGgJzZg&ohost=www.google.com&cid=CAESbeD2utZ8JxYShH9AzpCWb2Rr3PSy3JgXiutq3B7N0Dr2gajJPNITtG1apAAPT3MHvo1SomVJ-7qZZV7yzxtmTx6gWGU2AMACpeeKbq0xVt0EMeFosjR965VY9jCrkyzlIpT_qBRgN5MGCsDjADw&sig=AOD64_2eSL22DIsBj4KpyytqXJmA6FM2rg&q&adurl&ved=2ahUKEwjFrbrgkr36AhVZTmwGHZIjA9AQ0Qx6BAgDEAE"
+
+    },
 
 ]
