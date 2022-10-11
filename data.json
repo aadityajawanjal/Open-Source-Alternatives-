@@ -224,6 +224,16 @@
         "description":"light in weight, low consumption of memory,  more generalist IDE",
         "link":"https://www.jetbrains.com/idea/"
 
-    }
+    },
+    {
+        "id": 26,
+        "applicationName": "Photoshop",
+        "use": "Use to edit photos and other images",
+        "alternative":"Gimp",
+        "description":"Gimp makes it easy to edit photos and other images—just like you would with Photoshop. Suitable for professionals.",
+        "link":"https://www.gimp.org"
+
+    },
+    
 
 ]
