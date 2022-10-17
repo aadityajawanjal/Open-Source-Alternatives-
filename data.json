@@ -224,6 +224,14 @@
         "description":"light in weight, low consumption of memory,  more generalist IDE",
         "link":"https://www.jetbrains.com/idea/"
 
-    }
+    },
+     {
+        "id": 26,
+        "applicationName": "VLC media player",
+        "use": "To play media files",
+        "alternative":"GOM Player",
+        "description":"VLC media player is a free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.",
+        "link":"https://www.videolan.org/vlc/"
+    },
 
 ]
