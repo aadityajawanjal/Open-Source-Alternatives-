@@ -224,6 +224,14 @@
         "description":"light in weight, low consumption of memory,  more generalist IDE",
         "link":"https://www.jetbrains.com/idea/"
 
-    }
+    },
+    {
+        "id": 26,
+        "applicationName": "Lorien",
+        "use": "Whiteboard",
+        "alternative":"Microsoft Whiteboard",
+        "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+        "link":"https://github.com/mbrlabs/Lorien"
+    },
 
 ]
