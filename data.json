@@ -239,6 +239,14 @@
         "alternative":"Microsoft Whiteboard",
         "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
         "link":"https://github.com/mbrlabs/Lorien"
+    },
+    {
+        "id": 27,
+        "applicationName": "Power BI",
+        "use": "Data visualization",
+        "alternative":"Superset ",
+        "description":"Apache Superset is a Data Visualization and Data Exploration Platform.",
+        "link":"https://github.com/Apress/pro-power-bi-desktop-2018"
     }
 
 ]
