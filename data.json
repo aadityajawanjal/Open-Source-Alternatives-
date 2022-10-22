@@ -253,7 +253,15 @@
         "link":"https://github.com/mbrlabs/Lorien"
     },
     {
-        "id": 27,
+        "id": 29,
+
+        "applicationName": "Power BI",
+        "use": "Data visualization",
+        "alternative":"Superset ",
+        "description":"Apache Superset is a Data Visualization and Data Exploration Platform.",
+        "link":"https://github.com/Apress/pro-power-bi-desktop-2018"
+},{ 
+         "id"=30
         "applicationName": "Figma",
         "use": "Design Tool",
         "alternative":"Modulz",
