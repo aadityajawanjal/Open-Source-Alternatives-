@@ -251,6 +251,14 @@
         "alternative":"Microsoft Whiteboard",
         "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
         "link":"https://github.com/mbrlabs/Lorien"
+    },
+    {
+        "id": 27,
+        "applicationName": "Figma",
+        "use": "Design Tool",
+        "alternative":"Modulz",
+        "description":"An open-source UI component library for building high-Quality,accessible design systems and web apps.",
+        "link":"https://modulz.app/"
     }
 
 
