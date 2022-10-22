@@ -49,7 +49,7 @@
         "use": "To make UI/UX Designs",
         "alternative":"Figma",
         "description":"Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.",
-        "link":"\https://www.figma.com/"
+        "link":"https://www.figma.com/"
     },   
     {
         "id": 7,
@@ -66,7 +66,7 @@
         "alternative":"LibreOffice",
         "description":"consists of programs for word processing, creating and editing of spreadsheets, slideshows, diagrams and drawings, working with databases",
         "link":"https://www.libreoffice.org/"
-
+    },
     {
         "id": 9,
         "applicationName": "VLC media player",
@@ -143,6 +143,10 @@
         "use": "Code writing and editing",
         "alternative":"Sublime",
         "description":"It is open source platform to used for coding and development.",
+        "link": "https://code.visualstudio.com/"
+    },
+    {
+        "id": 18,
         "applicationName": "Chrome",
         "use": "browsing",
         "alternative":"Brave",
@@ -177,11 +181,6 @@
         "link":"https://github.com/mbrlabs/Lorien"
     },
     {
-        "id": 21,
-        "applicationName": "Brave",
-        "use": "Browsing",
-        "alternative":"chrome",
-        "description":"It is open source platform to used for browsing, coding and development.",
         "applicationName": "Chrome",
         "use": "browsing",
         "alternative":"Brave",
@@ -225,6 +224,7 @@
         "link":"https://www.jetbrains.com/idea/"
 
     },
+
     {
         "id": 26,
         "applicationName": "Photoshop",
@@ -235,5 +235,23 @@
 
     },
     
+
+     {
+        "id": 27,
+        "applicationName": "VLC media player",
+        "use": "To play media files",
+        "alternative":"GOM Player",
+        "description":"VLC media player is a free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.",
+        "link":"https://www.videolan.org/vlc/"
+     },
+    {
+        "id": 28,
+        "applicationName": "Lorien",
+        "use": "Whiteboard",
+        "alternative":"Microsoft Whiteboard",
+        "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+        "link":"https://github.com/mbrlabs/Lorien"
+    }
+
 
 ]
