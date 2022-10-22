@@ -224,8 +224,20 @@
         "link":"https://www.jetbrains.com/idea/"
 
     },
-     {
+
+    {
         "id": 26,
+        "applicationName": "Photoshop",
+        "use": "Use to edit photos and other images",
+        "alternative":"Gimp",
+        "description":"Gimp makes it easy to edit photos and other images—just like you would with Photoshop. Suitable for professionals.",
+        "link":"https://www.gimp.org"
+
+    },
+    
+
+     {
+        "id": 27,
         "applicationName": "VLC media player",
         "use": "To play media files",
         "alternative":"GOM Player",
@@ -233,12 +245,13 @@
         "link":"https://www.videolan.org/vlc/"
      },
     {
-        "id": 26,
+        "id": 28,
         "applicationName": "Lorien",
         "use": "Whiteboard",
         "alternative":"Microsoft Whiteboard",
         "description":"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
         "link":"https://github.com/mbrlabs/Lorien"
     }
+
 
 ]
